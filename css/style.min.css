@@ -691,7 +691,7 @@ section {
 =            FORM CONTROL            =
 ====================================*/
 .form-control:focus {
-  border-color: #4acfcf;
+  border-color: #ff00cc;
   box-shadow: 0 0 0 0.2rem rgba(253, 101, 90, 0.25); }
 
 .form-control::-webkit-input-placeholder {
@@ -729,7 +729,7 @@ section {
     top: 0;
     height: auto;
     width: 100%;
-    background: #4acfcf;
+    background: #ff00cc;
     /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #30cd66, #4acfcf);
     /* Chrome 10-25, Safari 5.1-6 */
@@ -740,7 +740,7 @@ section {
     padding-top: 15px !important;
     padding-bottom: 15px !important; }
   .navbar-transparent .navbar-collapse {
-    background: #4acfcf;
+    background: #ff00cc;
     /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #30cd66, #4acfcf);
     /* Chrome 10-25, Safari 5.1-6 */
